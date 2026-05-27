@@ -1,0 +1,56 @@
+
+.center{
+  display: flex;
+  justify-content: center;
+  font-size: 100px;
+    background-color: pink
+}
+
+.container {
+  font-size: 50px;
+  padding: 10px;
+    background-color: pink
+  
+}
+
+.p3 {
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+h2, p {
+  margin: 20px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #ffe5f2;
+}
+
+ul li {
+  float: left;
+  padding: 20px;
+}
+
+ul li a {
+  display: block;
+  color: #c51b1b;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+ul li a:hover {
+  background-color: #f9bdc7;
+}
+iframe {
+  display: block;
+  margin: 20px auto;
+}
